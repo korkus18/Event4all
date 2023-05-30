@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VKXCL74K9V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VKXCL74K9V');
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Konstrukce">
+    <meta name="description" content="">
+    <title>Event4all | Pódium </title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="sluzby_podium.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.4.4, nicepage.com">
+    <link rel="icon" type="image/x-icon" href="images/Event4all-icon.png">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"logo": "images/bile22.png",
+		"sameAs": [
+				"https://www.instagram.com/event4all_cz/",
+				"https://www.facebook.com/NWPproduction"
+		]
+  }</script>
+  <meta name="theme-color" content="#9466ea">
+  <meta property="og:title" content="blog">
+  <meta property="og:type" content="website">
+<meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+<body class="u-body u-overlap u-xl-mode" data-lang="en"><header class="u-black u-clearfix u-header u-sticky u-sticky-18d2 u-header" id="sec-3992"><div class="u-clearfix u-sheet u-sheet-1">
+  <a href="home" class="u-image u-logo u-image-1" data-image-width="3136" data-image-height="382" title="home">
+    <img src="images/bile22.png" class="u-logo-image u-logo-image-1">
+  </a>
+  <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="MD">
+    <div class="menu-collapse" style="font-size: 1.25rem; letter-spacing: 0px; font-weight: 500;">
+      <a class="u-button-style u-custom-border u-custom-border-color u-custom-borders u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-text-shadow u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="#" style="">
+        <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+        <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+      </a>
+    </div>
+    <div class="u-custom-menu u-nav-container" wfd-invisible="true">
+      <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" href="home" style="padding: 10px;">Domů</a>
+      </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" style="padding: 10px;">Služby</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-20"><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="sluzby_konstrukce">Konstukce</a>
+      </li><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="sluzby_podium">Pódium</a>
+      </li><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="sluzby_zvuk">Zvuk</a>
+      </li></ul>
+      </div>
+      </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" style="padding: 10px;">Pronájem</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-20"><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="pronajem_konstrukce">Konstrukce</a>
+      </li><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="pronajem_podium">Pódium</a>
+      </li><li class="u-nav-item"><a class="u-active-black u-black u-button-style u-nav-link" href="pronajem_zvukova_technika">Zvuková technika</a>
+      </li></ul>
+      </div>
+      </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" href="blog" style="padding: 10px;">Blog</a>
+      </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" href="reference" style="padding: 10px;">Reference</a>
+      </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-white u-text-hover-grey-30 u-text-white" href="kontakt"style="padding: 10px;">Kontakt</a>
+      </li></ul>
+    </div>
+    <div class="u-custom-menu u-nav-container-collapse">
+      <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+        <div class="u-inner-container-layout u-sidenav-overflow">
+          <div class="u-menu-close"></div>
+          <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="home">Domů</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">Služby</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-20">
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="sluzby_konstrukce">- Konstukce</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="sluzby_podium">- Pódium</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="sluzby_zvuk">- Zvuk</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">Pronájem</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-20">
+<li class="u-nav-item"><a class="u-button-style u-nav-link" href="pronajem_konstrukce">- Konstrukce</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="pronajem_podium">- Pódium</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="pronajem_zvukova_technika">- Zvuková technika</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="blog">Blog</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="reference">Reference</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="kontakt">Kontakt</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70" wfd-invisible="true"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-black u-clearfix u-section-1" id="sec-a0a9">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-align-center u-text u-text-default u-text-1">Pódium<br>
+        </h2>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-valign-top u-container-layout-1">
+                  <img class="u-image u-image-default u-image-1" src="images/newe/služby-podium/podium1.jpg" alt="" data-image-width="4000" data-image-height="1803">
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <p class="u-text u-text-default u-text-2">Pódium je klíčová věc pro vytvoření profesionální atmosféry na Vaší akci. Kvalitní pódium by mělo poskytovat stabilní základ pro umělce a umožňovat snadnou manipulaci s technickým vybavením.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-border-3 u-border-white u-line u-line-horizontal u-line-1"></div>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-2" id="sec-e867">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-valign-top u-container-layout-1">
+                  <p class="u-align-right u-text u-text-default u-text-1">Při využití naší nabídky pódia si můžete být jisti, že Vaše akce bude vypadat profesionálně a bude mít bezpečné a stabilní prostředí pro všechny zúčastněné. 
+                    V případě zájmu nás 
+                    nevájte kontaktovat!</p>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-valign-top u-container-layout-2">
+                  <img class="u-align-left u-image u-image-default u-image-1 " src="images/newe/služby-podium/podium2.jpg" alt="" data-image-width="4000" data-image-height="2919">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="u-border-3 u-border-white u-line u-line-horizontal u-line-1"></div>
+      </div>
+    </section>
+    <section class="u-align-center u-black u-clearfix u-section-5" id="sec-6046"><br><br>
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h1 class="u-text u-text-1">V případě jakéhokoliv dotazu či zájmu nás neváhejte kontaktovat!</h1>
+        <a href="kontakt" class="u-border-none u-btn u-btn-round u-button-style u-color-scheme-summer-time u-color-style-multicolor-1 u-hover-grey-30 u-radius-20 u-white u-btn-1">Kontaktujte nás </a>
+      </div><br><br>
+    </section>
+
+        
+    <section class="u-black u-clearfix u-section-3" id="sec-c08a">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width u-gallery u-layout-grid u-lightbox u-no-transition u-show-text-none u-gallery-1">
+          <div class="u-gallery-inner u-gallery-inner-1">
+            <div class="u-effect-hover-zoom u-gallery-item">
+              <div class="u-back-slide" data-image-width="1280" data-image-height="853">
+                <img class="u-back-image u-expanded" src="images/newe/služby-podium/podium3.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-1">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-hover-zoom u-gallery-item">
+              <div class="u-back-slide">
+                <img class="u-back-image u-expanded" src="images/newe/služby-podium/podium4.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-2">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            <div class="u-effect-hover-zoom u-gallery-item">
+              <div class="u-back-slide">
+                <img class="u-back-image u-expanded" src="images/newe/služby-podium/podium5.jpg">
+              </div>
+              <div class="u-over-slide u-shading u-over-slide-3">
+                <h3 class="u-gallery-heading"></h3>
+                <p class="u-gallery-text"></p>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-f0db"><div class="u-clearfix u-sheet u-sheet-1"><br><br>
+      <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-custom-sm u-layout-custom-xs u-layout-wrap u-layout-wrap-1">
+        <div class="u-gutter-0 u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-size-12-lg u-size-12-md u-size-12-xl u-size-60-sm u-size-60-xs u-layout-cell-1">
+              <div class="u-container-layout u-valign-top-xs u-container-layout-1">
+                <p class=" mobile-none u-text u-text-default u-text-1"><a href="home">Úvod</a>
+                  <br>
+                  <a href="blog">Blog</a>
+                  <br><a href="reference">Reference</a>
+                  &nbsp;<br>
+                </p>
+                <div class="u-social-icons u-spacing-10 u-social-icons-1">
+                  <a class="u-social-url" title="instagram" target="_blank" href="https://www.instagram.com/event4all_cz/"><span class="u-icon u-social-icon u-social-instagram u-text-white u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-6394"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-6394"><path fill="currentColor" d="M55.9,32.9c-12.8,0-23.2,10.4-23.2,23.2s10.4,23.2,23.2,23.2s23.2-10.4,23.2-23.2S68.7,32.9,55.9,32.9z
+ M55.9,69.4c-7.4,0-13.3-6-13.3-13.3c-0.1-7.4,6-13.3,13.3-13.3s13.3,6,13.3,13.3C69.3,63.5,63.3,69.4,55.9,69.4z"></path><path fill="#FFFFFF" d="M79.7,26.8c-3,0-5.4,2.5-5.4,5.4s2.5,5.4,5.4,5.4c3,0,5.4-2.5,5.4-5.4S82.7,26.8,79.7,26.8z"></path><path fill="currentColor" d="M78.2,11H33.5C21,11,10.8,21.3,10.8,33.7v44.7c0,12.6,10.2,22.8,22.7,22.8h44.7c12.6,0,22.7-10.2,22.7-22.7
+V33.7C100.8,21.1,90.6,11,78.2,11z M91,78.4c0,7.1-5.8,12.8-12.8,12.8H33.5c-7.1,0-12.8-5.8-12.8-12.8V33.7
+c0-7.1,5.8-12.8,12.8-12.8h44.7c7.1,0,12.8,5.8,12.8,12.8V78.4z"></path></svg></span>
+                  </a>
+                  <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/NWPproduction"><span class="u-icon u-social-facebook u-social-icon u-text-white u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-ceaf"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-ceaf"><path fill="currentColor" d="M75.5,28.8H65.4c-1.5,0-4,0.9-4,4.3v9.4h13.9l-1.5,15.8H61.4v45.1H42.8V58.3h-8.8V42.4h8.8V32.2
+c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="mobile-none u-align-left u-container-style u-layout-cell u-size-12-lg u-size-12-md u-size-12-xl u-size-60-sm u-size-60-xs u-layout-cell-2">
+              <div class="u-container-layout u-valign-bottom-xs u-valign-top-lg u-valign-top-xl u-container-layout-2">
+                <p class="u-text u-text-default u-text-2">Služby<br>
+                  <br><a href="sluzby_konstrukce">Konstrukce</a> 
+                  <br><a href="sluzby_podium">Pódium</a>
+                  <br><a href="sluzby_zvuk">Zvuk</a>
+                </p>
+              </div>
+            </div>
+            <div class=" mobile-none u-container-style u-layout-cell u-size-12-lg u-size-12-md u-size-12-xl u-size-60-sm u-size-60-xs u-layout-cell-3">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-3">
+                <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="images/bile.png" alt="" data-image-width="3136" data-image-height="1862">
+              </div>
+            </div>
+            <div class="mobile-none u-container-style u-layout-cell u-size-12-lg u-size-12-md u-size-12-xl u-size-60-sm u-size-60-xs u-layout-cell-4">
+              <div class="u-container-layout u-valign-bottom-sm u-valign-bottom-xs u-valign-top-lg u-valign-top-xl u-container-layout-4">
+                <p class="u-text u-text-default u-text-3">Pronájem&nbsp;<br>
+                  <br><a href="pronajem_konstrukce">Konstrukce</a>
+                  <br><a href="pronajem_podium">Pódium</a>
+                  <br><a href="pronajem_zvukova_technika">Zvuková technika</a>
+                  <br>
+                </p>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-layout-cell u-size-12-lg u-size-12-md u-size-12-xl u-size-60-sm u-size-60-xs u-layout-cell-5">
+              <div class="u-container-layout u-container-layout-5">
+                <p class=" u-text u-text-4">Kontakt<br>
+                  <br><span class="u-file-icon u-icon u-text-white u-icon-3"><img src="images/597177-ab45eb6d.png" alt=""></span> (+420) 773 994 266<br><span class="u-file-icon u-icon u-text-white u-icon-4"><img src="images/2099199-5c39eece.png" alt=""></span> &nbsp;info@event4all.cz&nbsp;<br>
+                </p>
+              </div>
+            </div>
+          </div>
+          <p class="  u-text-5">
+            <br>Petr Neveklovský - vedený v živnostenském rejstříku.
+          </p>
+        </div>
+      </div>
+      <div class="u-border-3 u-border-grey-15 u-line u-line-horizontal u-line-1 u-black"></div>
+        <p class="u-align-left u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-grey-15 u-text-5 u-black"> Made by <a href="http://www.jakubkorous.cz/">Jakub Korous</a> © 2023</p>
+      </div></footer>
+
+  
+</body></html>
